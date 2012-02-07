@@ -29,6 +29,11 @@ class Songs
         :artist => "Queen",
         :track  => "Don't Stop Me Now",
         :url    => "http://www.youtube.com/watch?v=HgzGwKwLmgM"
+      },
+      {
+        :artist => "The Cinematic Orchestra",
+        :track  => "To Build a Home",
+        :url   => "http://www.youtube.com/watch?v=QB0ordd2nOI"
       }
     ]
   end
